@@ -12,7 +12,7 @@ Copyright Information
 Trademarks
 ==========
 
-J4Care dcm4chee-arc-pro and the corporate logo are trademarks or registered trademarks of J4Care GmbH in Austria throughout the world. All other company and product names are used for identification purposes only and may be trademarks of their respective owners. J4Care GmbH cannot guarantee completion of any future products or product features mentioned in this document, and no reliance should be placed on their availability.
+J4Care Smooth Archive and the corporate logo are trademarks or registered trademarks of J4Care GmbH in Austria throughout the world. All other company and product names are used for identification purposes only and may be trademarks of their respective owners. J4Care GmbH cannot guarantee completion of any future products or product features mentioned in this document, and no reliance should be placed on their availability.
 
 Further information about J4care products: http://www.j4care.com/
 
