@@ -7,6 +7,7 @@ Copyright Information
 =====================
 
 ©2009-2020 J4Care GmbH. Enzersdorfer Strasse 7, 2340 Mödling, Austria. All rights reserved. The material contained in this document is proprietary to J4Care GmbH. No rights in said material are hereby transferred by J4Care GmbH. This material may not be disclosed, duplicated or otherwise revealed, in whole or in part, without prior written consent.
+
 .. _trademarks:
 
 Trademarks
