@@ -1,4 +1,4 @@
-HL7 Conformance Statement |product|
+|product| - HL7 Conformance Statement
 ###################################
 
 :Company Name: J4Care GmBH
