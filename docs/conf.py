@@ -21,8 +21,8 @@ import shlex
 project = u'Smooth Archive - HL7 Conformance Statement'
 copyright = u'2020, J4Care GmBH'
 author = u'J4Care GMbH'
-version = u'5.22.6'
-release = u'5.22.6.GA'
+version = u'5.23.0'
+release = u'5.23.0.RC5'
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
