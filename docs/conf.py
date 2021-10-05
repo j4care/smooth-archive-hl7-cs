@@ -22,7 +22,7 @@ project = u'Smooth Archive - HL7 Conformance Statement'
 copyright = u'2021, J4Care GmBH'
 author = u'J4Care GMbH'
 version = u'5.24.2'
-release = u'5.24.2-1'
+release = u'5.24.2-2'
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
