@@ -1,7 +1,7 @@
 |product| - HL7 Conformance Statement
 #####################################
 
-:Company Name: MedWeb
+:Company Name: J4Care GmbH
 :Product Name: |product|
 :Version: |version|
 :Date: |today|
