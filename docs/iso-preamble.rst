@@ -282,217 +282,217 @@ Revision Record for Document AEN-00039-0516.10
      - G.Zeilinger
      - J.Friedrichkeit
    * - 43
-     - Release Notes 5.15.0 GA
+     - link not available
      - **21.11.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 42
-     - Release Notes 5.14.1 GA
+     - link not available
      - **03.10.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 41
-     - Release Notes 5.14.0 GA
+     - link not available
      - **29.08.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 40
-     - Release Notes 5.13.3 GA
+     - link not available
      - **12.07.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 39
-     - Release Notes 5.13.2 GA
+     - link not available
      - **06.06.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 38
-     - Release Notes 5.13.1 GA
+     - link not available
      - **15.05.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 37
-     - Release Notes 5.13.0 GA
+     - link not available
      - **31.03.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 36
-     - Release Notes 5.12.0 GA
+     - link not available
      - **13.02.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 35
-     - Release Notes 5.11.0 GA
+     - link not available
      - **27.11.2018**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 34
-     - Release Notes 5.10.6 GA
+     - link not available
      - **09.10.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 33
-     - Release Notes 5.10.5 GA
+     - link not available
      - **25.08.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 32
-     - Release Notes 5.10.4 GA
+     - link not available
      - **10.07.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 31
-     - Release Notes 5.10.3 GA
+     - link not available
      - **12.06.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 30
-     - Release Notes 5.10.2 GA
+     - link not available
      - **18.05.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 29
-     - Release Notes 5.10.1 GA
+     - link not available
      - **27.04.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 28
-     - Release Notes 5.10.0 GA
+     - link not available
      - **30.03.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 27
-     - Release Notes 5.9.3 GA
+     - link not available
      - **10.03.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 26
-     - Release Notes 5.9.2 GA
+     - link not available
      - **21.02.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 25
-     - Release Notes 5.9.1 GA
+     - link not available
      - **15.02.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 24
-     - Release Notes 5.9.0 GA
+     - link not available
      - **01.02.2017**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 23
-     - Release Notes 5.8.1 GA
+     - link not available
      - **29.12.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 22
-     - Release Notes 5.8.0 GA
+     - link not available
      - **23.12.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 21
-     - Release Notes 5.7.2 GA
+     - link not available
      - **14.11.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 20
-     - Release Notes 5.7.1 GA
+     - link not available
      - **02.11.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 19
-     - Release Notes 5.7.0 GA
+     - link not available
      - **25.10.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 18
-     - Release Notes 5.6.3 GA
+     - link not available
      - **14.10.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 17
-     - Release Notes 5.6.2 GA
+     - link not available
      - **12.10.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 16
-     - Release Notes 5.6.1 GA
+     - link not available
      - **07.10.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 15
-     - Release Notes 5.6.0 GA
+     - link not available
      - **15.09.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 14
-     - Release Notes 5.5.4 GA
+     - link not available
      - **31.08.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 13
-     - Release Notes 5.5.3 GA
+     - link not available
      - **02.08.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 12
-     - Release Notes 5.5.2 GA
+     - link not available
      - **18.07.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 11
-     - Release Notes 5.5.1 GA
+     - link not available
      - **11.07.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 10
-     - Release Notes 5.5.0 GA
+     - link not available
      - **29.06.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 09
-     - Release Notes 5.4.1 GA
+     - link not available
      - **20.06.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 08
-     - Release Notes 5.4.0 GA
+     - link not available
      - **14.06.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 07
-     - Release Notes 5.3.1 GA
+     - link not available
      - **01.06.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 06
-     - Release Notes 5.3.0 GA
+     - link not available
      - **27.05.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 05
-     - Release Notes 5.2.1 GA
+     - link not available
      - **25.05.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 04
-     - Release Notes 5.2.0 GA
+     - link not available
      - **17.05.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 03
-     - Release Notes 5.1.0 GA
+     - link not available
      - **17.05.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 02
-     - Release Notes 5.0.1 GA
+     - link not available
      - **25.05.2016**
      - G.Zeilinger
      - J.Friedrichkeit
    * - 01
-     - Release Notes 5.0.0 GA
+     - link not available
      - **02.11.2015**
      - G.Zeilinger
      - J.Friedrichkeit
