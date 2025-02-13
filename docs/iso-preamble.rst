@@ -6,7 +6,7 @@ ISO Preamble
 Copyright Information
 =====================
 
-©2009-2020 J4Care GmbH. Enzersdorfer Strasse 7, 2340 Mödling, Austria. All rights reserved. The material contained in this document is proprietary to J4Care GmbH. No rights in said material are hereby transferred by J4Care GmbH. This material may not be disclosed, duplicated or otherwise revealed, in whole or in part, without prior written consent.
+©2009-2025 J4Care GmbH. Enzersdorfer Strasse 7, 2340 Mödling, Austria. All rights reserved. The material contained in this document is proprietary to J4Care GmbH. No rights in said material are hereby transferred by J4Care GmbH. This material may not be disclosed, duplicated or otherwise revealed, in whole or in part, without prior written consent.
 
 .. _trademarks:
 
@@ -22,7 +22,7 @@ Further information about J4care products: http://www.j4care.com/
 Disclaimer of Warranty
 ======================
 
-©J4care GmbH ©2009-2020
+©J4care GmbH ©2009-2025
 
 This J4Care document is proporietary to J4Care GmbH and no ownership rights are hereby transferred.
 
@@ -53,7 +53,446 @@ Product Labeling
 Revision Record for Document AEN-00039-0516.10
 ==============================================
 
-.. csv-table:: Revision record for document AEN-00039-0516.10
-   :header: "Revision", "Changes", "Date", "Author", "Approved"
-   :file: aen-revisions.csv
-   :widths: 5, 35, 13, 25, 25
+.. list-table:: Release Notes
+   :header-rows: 1
+
+   * - ID
+     - Release Notes
+     - Date
+     - Author
+     - Reviewer
+   * - 87
+     - `Release Notes 5.33.1 <https://docs.j4care.com/archive/releases/pro-release-5-33-1>`_
+     - **11.10.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 86
+     - `Release Notes 5.33.0 <https://docs.j4care.com/archive/releases/pro-release-5-33-0>`_
+     - **20.9.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 85
+     - `Release Notes 5.32.1 <https://docs.j4care.com/archive/releases/pro-release-5-32-1>`_
+     - **26.7.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 84
+     - `Release Notes 5.32.0 <https://docs.j4care.com/archive/releases/pro-release-5-32-0>`_
+     - **30.4.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 83
+     - `Release Notes 5.31.3 <https://docs.j4care.com/archive/releases/pro-release-5-31-3>`_
+     - **29.1.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 82
+     - `Release Notes 5.31.2 <https://docs.j4care.com/archive/releases/pro-release-5-31-2>`_
+     - **4.1.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 81
+     - `Release Notes 5.31.1 <https://docs.j4care.com/archive/releases/pro-release-5-31-1>`_
+     - **11.10.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 80
+     - `Release Notes 5.31.0 <https://docs.j4care.com/archive/releases/pro-release-5-31-0>`_
+     - **31.8.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 79
+     - `Release Notes 5.30.0 <https://docs.j4care.com/archive/releases/pro-release-5-30-0>`_
+     - **5.5.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 78
+     - `Release Notes 5.29.2 <https://docs.j4care.com/archive/releases/pro-release-5-29-2>`_
+     - **5.4.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 77
+     - `Release Notes 5.29.1 <https://docs.j4care.com/archive/releases/pro-release-5-29-1>`_
+     - **29.11.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 76
+     - `Release Notes 5.28.0 <https://docs.j4care.com/archive/releases/pro-release-5-28-0>`_
+     - **31.08.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 75
+     - `Release Notes 5.27.0 <https://docs.j4care.com/archive/releases/pro-release-5-27-0>`_
+     - **03.08.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 74
+     - `Release Notes 5.26.1 <https://docs.j4care.com/archive/releases/pro-release-5-26-1>`_
+     - **05.07.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 73
+     - `Release Notes 5.26.0 <https://docs.j4care.com/archive/releases/pro-release-5-26-0>`_
+     - **25.04.2022**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 72
+     - `Release Notes 5.25.2 <https://docs.j4care.com/archive/releases/pro-release-5-25-2>`_
+     - **14.02.2022**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 71
+     - `Release Notes 5.25.1 <https://docs.j4care.com/archive/releases/pro-release-5-25-1>`_
+     - **29.12.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 70
+     - `Release Notes 5.25.0 <https://docs.j4care.com/archive/releases/pro-release-5-25-0>`_
+     - **14.12.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 69
+     - `Release Notes 5.24.2 <https://docs.j4care.com/archive/releases/pro-release-5-24-2>`_
+     - **14.10.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 68
+     - `Release Notes 5.24.1 <https://docs.j4care.com/archive/releases/pro-release-5-24-1>`_
+     - **15.09.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 67
+     - `Release Notes 5.24.0 <https://docs.j4care.com/archive/releases/pro-release-5-24-0>`_
+     - **06.08.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 66
+     - `Release Notes 5.23.3 <https://docs.j4care.com/archive/releases/pro-release-5-23-3>`_
+     - **18.05.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 65
+     - `Release Notes 5.23.2 <https://docs.j4care.com/archive/releases/pro-release-5-23-2>`_
+     - **24.03.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 64
+     - `Release Notes 5.23.1 <https://docs.j4care.com/archive/releases/pro-release-5-23-1>`_
+     - **10.02.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 63
+     - `Release Notes 5.23.0 <https://docs.j4care.com/archive/releases/pro-release-5-23-0>`_
+     - **14.12.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 62
+     - `Release Notes 5.22.6 <https://docs.j4care.com/archive/releases/pro-release-5-22-6>`_
+     - **16.10.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 61
+     - `Release Notes 5.22.5 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-5-ga>`_
+     - **01.10.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 60
+     - `Release Notes 5.22.4 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-4-ga>`_
+     - **20.08.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 59
+     - `Release Notes 5.22.3 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-3-ga>`_
+     - **30.06.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 58
+     - `Release Notes 5.22.2 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-2-ga>`_
+     - **29.05.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 57
+     - `Release Notes 5.22.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-1-ga>`_
+     - **10.04.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 56
+     - `Release Notes 5.22.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-0-ga>`_
+     - **13.03.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 55
+     - `Release Notes 5.21.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-21-0-ga>`_
+     - **28.01.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 54
+     - `Release Notes 5.20.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-20-0-ga>`_
+     - **20.12.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 53
+     - `Release Notes 5.19.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-19-1-ga>`_
+     - **19.11.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 52
+     - `Release Notes 5.19.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-19-0-ga>`_
+     - **10.10.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 51
+     - `Release Notes 5.18.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-18-1-ga>`_
+     - **05.09.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 50
+     - `Release Notes 5.18.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-18-0-ga>`_
+     - **02.08.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 49
+     - `Release Notes 5.17.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-17-1-ga>`_
+     - **12.07.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 48
+     - `Release Notes 5.17.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-17-0-ga>`_
+     - **04.06.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 47
+     - `Release Notes 5.16.2 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-2-ga>`_
+     - **25.04.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 46
+     - `Release Notes 5.16.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-1-ga>`_
+     - **09.04.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 45
+     - `Release Notes 5.16.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-0-ga>`_
+     - **01.03.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 44
+     - Release Notes 5.15.1 GA
+     - **10.01.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 43
+     - Release Notes 5.15.0 GA
+     - **21.11.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 42
+     - Release Notes 5.14.1 GA
+     - **03.10.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 41
+     - Release Notes 5.14.0 GA
+     - **29.08.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 40
+     - Release Notes 5.13.3 GA
+     - **12.07.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 39
+     - Release Notes 5.13.2 GA
+     - **06.06.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 38
+     - Release Notes 5.13.1 GA
+     - **15.05.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 37
+     - Release Notes 5.13.0 GA
+     - **31.03.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 36
+     - Release Notes 5.12.0 GA
+     - **13.02.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 35
+     - Release Notes 5.11.0 GA
+     - **27.11.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 34
+     - Release Notes 5.10.6 GA
+     - **09.10.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 33
+     - Release Notes 5.10.5 GA
+     - **25.08.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 32
+     - Release Notes 5.10.4 GA
+     - **10.07.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 31
+     - Release Notes 5.10.3 GA
+     - **12.06.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 30
+     - Release Notes 5.10.2 GA
+     - **18.05.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 29
+     - Release Notes 5.10.1 GA
+     - **27.04.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 28
+     - Release Notes 5.10.0 GA
+     - **30.03.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 27
+     - Release Notes 5.9.3 GA
+     - **10.03.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 26
+     - Release Notes 5.9.2 GA
+     - **21.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 25
+     - Release Notes 5.9.1 GA
+     - **15.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 24
+     - Release Notes 5.9.0 GA
+     - **01.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 23
+     - Release Notes 5.8.1 GA
+     - **29.12.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 22
+     - Release Notes 5.8.0 GA
+     - **23.12.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 21
+     - Release Notes 5.7.2 GA
+     - **14.11.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 20
+     - Release Notes 5.7.1 GA
+     - **02.11.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 19
+     - Release Notes 5.7.0 GA
+     - **25.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 18
+     - Release Notes 5.6.3 GA
+     - **14.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 17
+     - Release Notes 5.6.2 GA
+     - **12.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 16
+     - Release Notes 5.6.1 GA
+     - **07.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 15
+     - Release Notes 5.6.0 GA
+     - **15.09.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 14
+     - Release Notes 5.5.4 GA
+     - **31.08.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 13
+     - Release Notes 5.5.3 GA
+     - **02.08.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 12
+     - Release Notes 5.5.2 GA
+     - **18.07.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 11
+     - Release Notes 5.5.1 GA
+     - **11.07.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 10
+     - Release Notes 5.5.0 GA
+     - **29.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 09
+     - Release Notes 5.4.1 GA
+     - **20.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 08
+     - Release Notes 5.4.0 GA
+     - **14.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 07
+     - Release Notes 5.3.1 GA
+     - **01.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 06
+     - Release Notes 5.3.0 GA
+     - **27.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 05
+     - Release Notes 5.2.1 GA
+     - **25.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 04
+     - Release Notes 5.2.0 GA
+     - **17.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 03
+     - Release Notes 5.1.0 GA
+     - **17.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 02
+     - Release Notes 5.0.1 GA
+     - **25.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 01
+     - Release Notes 5.0.0 GA
+     - **02.11.2015**
+     - G.Zeilinger
+     - J.Friedrichkeit
