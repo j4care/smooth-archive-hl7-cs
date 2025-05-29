@@ -142,6 +142,8 @@ Table of Content
 |     12.2.3. :ref:`qbp_out_dicom`
 |       12.2.3.1. :ref:`qbp_out_qbp_q22_dicom`
 | 13. :doc:`dcm4chee-arc-hl7cs/source/notification/index`
+|   13.1. :doc:`orm/outbound`
+|   13.1. :doc:`oru/outbound`
 | 14. :doc:`dcm4chee-arc-hl7cs/source/fwd/index`
 | 15. :doc:`dcm4chee-arc-hl7cs/source/export/index`
 | 16. :doc:`dcm4chee-arc-hl7cs/source/prefetch/index`
