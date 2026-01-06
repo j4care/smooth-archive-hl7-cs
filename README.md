@@ -2,8 +2,9 @@
 
 Sphinx-based documentation for J4Care Smooth Archive HL7 Conformance Statement.
 
-- **ReadTheDocs**: https://smooth-archive-hl7-cs.readthedocs.io
 - **GitHub**: https://github.com/j4care/smooth-archive-hl7-cs
+- **ReadTheDocs**: https://smooth-archive-hl7-cs.readthedocs.io
+- **PDF**: https://download.j4care.com/documentation/cs/smooth-archive-hl7-cs.pdf
 
 ## Repository Structure
 
