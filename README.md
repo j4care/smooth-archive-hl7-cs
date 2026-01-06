@@ -108,3 +108,7 @@ CS_DIR=/data/download-nginx/data/documentation/cs
 scp -P 52771 ${PDF_OUT}/smooth-archive-hl7-cs.${VERSION}.pdf j4care@docs.j4care.com:${CS_DIR}/
 scp -P 52771 ${PDF_OUT}/smooth-archive-hl7-cs.${VERSION}.pdf j4care@docs.j4care.com:${CS_DIR}/smooth-archive-hl7-cs.pdf
 ```
+
+### Verify PDF
+
+https://download.j4care.com/documentation/cs/smooth-archive-hl7-cs.pdf
