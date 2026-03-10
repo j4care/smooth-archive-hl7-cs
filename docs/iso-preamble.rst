@@ -6,7 +6,7 @@ ISO Preamble
 Copyright Information
 =====================
 
-©2009-2025 J4Care GmbH. Enzersdorfer Strasse 7, 2340 Mödling, Austria. All rights reserved. The material contained in this document is proprietary to J4Care GmbH. No rights in said material are hereby transferred by J4Care GmbH. This material may not be disclosed, duplicated or otherwise revealed, in whole or in part, without prior written consent.
+©2009-2026 J4Care GmbH. Enzersdorfer Strasse 7, 2340 Mödling, Austria. All rights reserved. The material contained in this document is proprietary to J4Care GmbH. No rights in said material are hereby transferred by J4Care GmbH. This material may not be disclosed, duplicated or otherwise revealed, in whole or in part, without prior written consent.
 
 .. _trademarks:
 
@@ -22,7 +22,7 @@ Further information about J4care products: http://www.j4care.com/
 Disclaimer of Warranty
 ======================
 
-©J4care GmbH ©2009-2025
+©J4care GmbH ©2009-2026
 
 This J4Care document is proporietary to J4Care GmbH and no ownership rights are hereby transferred.
 
@@ -61,6 +61,11 @@ Revision Record for Document AEN-00039-0516.10
      - Date
      - Author
      - Reviewer
+   * - 91
+     - `Release Notes 5.34.3 <https://docs.j4care.com/archive/releases/pro-release-5-34-3>`_
+     - **26.02.2026**
+     - P. Kalina
+     - J.Friedrichkeit
    * - 90
      - `Release Notes 5.34.2 <https://docs.j4care.com/archive/releases/pro-release-5-34-2>`_
      - **11.11.2025**
