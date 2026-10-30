@@ -63,7 +63,7 @@ Revision Record for Document AEN-00039-0516.10
      - Reviewer
    * - 93
      - `Release Notes 5.35.2 <https://docs.j4care.com/archive/releases/pro-release-5-35-2>`_
-     - **25.09.2026**
+     - **30.10.2026**
      - P. Kalina
      - J.Friedrichkeit
    * - 92
