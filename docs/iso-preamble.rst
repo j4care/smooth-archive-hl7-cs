@@ -61,6 +61,11 @@ Revision Record for Document AEN-00039-0516.10
      - Date
      - Author
      - Reviewer
+   * - 94
+     - `Release Notes 5.36.0 <https://docs.j4care.com/archive/releases/pro-release-5-36-0>`_
+     - **12.11.2026**
+     - P. Kalina
+     - J.Friedrichkeit
    * - 93
      - `Release Notes 5.35.2 <https://docs.j4care.com/archive/releases/pro-release-5-35-2>`_
      - **02.11.2026**
